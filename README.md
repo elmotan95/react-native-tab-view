@@ -818,3 +818,4 @@ Remember to add tests for your change if possible.
 [package]: https://www.npmjs.com/package/react-native-tab-view
 [license-badge]: https://img.shields.io/npm/l/react-native-tab-view.svg?style=flat-square
 [license]: https://opensource.org/licenses/MIT
+
